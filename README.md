@@ -9,6 +9,8 @@ I'm Nemanja! Currently learning Python with a long-term goal to advance in caree
 
 List of projects:
 
+First group of Projects (Level BEGINNER)
+
 1 - Band Name Generator (Day 1)
 2 - Tip Calculator (Day 2)
 3 - Treasure Island (Day 3)
@@ -21,3 +23,4 @@ List of projects:
 10 - The Blackjack (Day 11)
 11 - The Number Guessing Game (Day 12)
 12 - Higher Lower Game (Day 14)
+---------------------------------------
