@@ -2,11 +2,6 @@
 
 # Link: https://github.com/nemanjakalember/projects-showcase/blob/main/README.md
 
-Hello and thanks for stepping by! 
-
-I'm Nemanja! Currently learning Python with a long-term goal to advance in career to some junior Data Science positions for the start. Here going to share projects that I've worked in Python during my journey!  Check out my projects list, enjoy!
-
-
 List of projects:
 
 First group of Projects (Level BEGINNER)
