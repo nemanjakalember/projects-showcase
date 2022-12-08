@@ -1,6 +1,6 @@
 # Projects showcase
 
-# Link: 
+# Link: https://github.com/nemanjakalember/projects-showcase/blob/main/README.md
 
 Hello and thanks for stepping by! 
 
