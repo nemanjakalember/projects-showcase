@@ -9,13 +9,15 @@ I'm Nemanja! Currently learning Python with a long-term goal to advance in caree
 
 List of projects:
 
-1 - Band Name Generator 
-2 - Tip Calculator
-3 - Treasure Island
-4 - Rock, Paper, Scissors
-5 - Password Generator
-6 - Escaping the Maze
-7 - Hangman
-8 - Caesar Cipher
-9 - 
-10 - 
+1 - Band Name Generator (Day 1)
+2 - Tip Calculator (Day 2)
+3 - Treasure Island (Day 3)    
+4 - Rock, Paper, Scissors (Day 4)    
+5 - Password Generator (Day 5)    
+6 - Escaping the Maze (Day 6)
+7 - Hangman (Day 7)
+8 - Caesar Cipher (Day 8)
+9 - The Secret Auction (Day 9)
+10 - The Blackjack (Day 11)
+11 - The Number Guessing Game (Day 12)
+12 - Higher Lower Game (Day 14)
