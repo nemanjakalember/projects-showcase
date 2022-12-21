@@ -12,7 +12,7 @@ First group of Projects (Level BEGINNER)
 4 - Rock Paper Scissors (Day 4)    
 5 - Password Generator (Day 5)    
 6 - Escaping the Maze (Day 6)
-7 - Hangman (Day 7)
+7 - Hangman (Day 7) <-----------------------------------------------------------
 8 - Caesar Cipher (Day 8)
 9 - The Secret Auction (Day 9)
 10 - The Blackjack (Day 11)
